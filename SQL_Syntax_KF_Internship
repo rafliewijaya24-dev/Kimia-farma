@@ -1,3 +1,4 @@
+CREATE OR REPLACE TABLE `rakamin-kf-analytics-494806.kimia_farma.kf_data` AS
 --Syntax Querying dataset dari 4 file CSV menjadi satu tabel
 SELECT
   ft.transaction_id,
